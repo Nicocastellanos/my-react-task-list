@@ -6,10 +6,9 @@
 }
 .input{
     width: 400px;
-    height: 50px;
     border-radius: 0.5rem;
     font-size: 16px;
-    padding-left: 18px;
+    padding: 18px;
 }
 .buttonAdd{
     background-color: rgb(0, 153, 255);
@@ -24,5 +23,6 @@
 }
 .icono-add{
    width: 36px;
-   color: white;
+   color: rgb(0, 153, 255);
+   background-color: transparent;
 }
